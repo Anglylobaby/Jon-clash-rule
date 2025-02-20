@@ -26,3 +26,11 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,cloudflare.com
+
+
+# 内容：X.ai Grok
+# 域名关键字匹配
+DOMAIN-KEYWORD,x.ai
+# 域名后缀匹配
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.ai

@@ -32,6 +32,10 @@ DOMAIN-SUFFIX,api.mijia.tech
 DOMAIN-SUFFIX,smartcamera.api.mijia.tech
 DOMAIN-SUFFIX,business.mijia.tech
 
+# Deepseek
+DOMAIN-KEYWORD,deepseek
+DOMAIN-SUFFIX,chat.deepseek.com
+DOMAIN-SUFFIX,deepseek.com
 
 # 360
 DOMAIN-SUFFIX,360.com

@@ -26,9 +26,11 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # 米家
 DOMAIN-KEYWORD,mijia
+DOMAIN-KEYWORD,xiaomi
 DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,api.mijia.tech
 DOMAIN-SUFFIX,smartcamera.api.mijia.tech
+DOMAIN-SUFFIX,business.mijia.tech
 
 
 # 360

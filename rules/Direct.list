@@ -37,6 +37,10 @@ DOMAIN-KEYWORD,deepseek
 DOMAIN-SUFFIX,chat.deepseek.com
 DOMAIN-SUFFIX,deepseek.com
 
+# tencent
+DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,yuanbao
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com

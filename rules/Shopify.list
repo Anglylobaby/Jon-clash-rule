@@ -2,6 +2,13 @@
 
 # Shopify
 # 域名后缀匹配
-DOMAIN-SUFFIX,shopify.com
-DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shopify.com,DIRECT
+DOMAIN-SUFFIX,myshopify.com,DIRECT
+DOMAIN-SUFFIX,shopifysvc.com,DIRECT
+DOMAIN-SUFFIX,shopifycdn.com,DIRECT
+DOMAIN-SUFFIX,shopifyapps.com,DIRECT
+DOMAIN-SUFFIX,shopifycloud.com,DIRECT
+DOMAIN-SUFFIX,bugsnag.com,DIRECT
+DOMAIN-SUFFIX,googleapis.com,DIRECT
+DOMAIN-SUFFIX,cloudflare.com,DIRECT
 DOMAIN-KEYWORD,shopify

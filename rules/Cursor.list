@@ -3,6 +3,8 @@
 # Cursor
 # 域名后缀匹配
 DOMAIN-SUFFIX,cursor.sh,CURSOR
+DOMAIN-SUFFIX,cursorapi.com,CURSOR
+DOMAIN-SUFFIX,cursor.com,CURSOR
 DOMAIN-SUFFIX,api.cursor.sh,CURSOR
 DOMAIN-SUFFIX,mcp.cursor.sh,CURSOR
 DOMAIN-KEYWORD,cursor,CURSOR
